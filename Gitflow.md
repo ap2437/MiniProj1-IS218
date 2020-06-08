@@ -14,3 +14,4 @@
 
 
 More information about Gitflow is available here [Gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html#:~:text=GitFlow%20is%20a%20branching%20model,and%20scaling%20the%20development%20team.).
+![GitFlow](https://wpdevkvk.files.wordpress.com/2017/03/diagram.png?resize=900%2C506)
