@@ -1,5 +1,4 @@
 ### VI TUTORIAL
-![Vi tutorial screenshot](./viScreenshot.png)
 
 In this tutorial you will learn basic commands
 when using Vi in Linux
